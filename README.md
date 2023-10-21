@@ -22,7 +22,7 @@ Each day, a new bash script is added to this repository. Explore the scripts to 
 
 To run any of the scripts, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/daily-bash-scripts.git`
+1. Clone the repository: `git clone https://github.com/mutate9601/daily-bash-scripts.git`
 2. Navigate to the script's directory: `cd daily-bash-scripts/script-name`
 3. Make the script executable: `chmod +x script-name.sh`
 4. Run the script: `./script-name.sh`
