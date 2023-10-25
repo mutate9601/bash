@@ -1,6 +1,6 @@
 #Conditions
 
-#!/bash/bash/
+#!/bin/bash/
 
 age=20
 if [ $age -ge 18 ]; then   #-ge operator used for greater or equal
